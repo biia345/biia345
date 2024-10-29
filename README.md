@@ -6,11 +6,11 @@
 
 ###
 
-<img align="right" height="250" src="https://i.ibb.co/jfZ4vH1/b.jpg"  />
+<img align="right" height="500" src="https://i.ibb.co/jfZ4vH1/b.jpg"  />
 
 ###
 
-<h6 align="left">• 💻Desenvolvedora de Softweare<br>• 📱Front-End Delevoper</h6>
+<p align="left">• 💻Desenvolvedora de Softweare<br>• 📱Front-End Delevoper</p>
 
 ###
 
