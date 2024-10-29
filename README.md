@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">• 💻Desenvolvedora de Softweare<br>• 📱Front-End Delevoper</p>
+<p align="left">• 💻Desenvolvedora de Software<br>• 📱Front-End Delevoper</p>
 
 ###
 
