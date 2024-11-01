@@ -6,8 +6,6 @@
 
 <h3 align="center">Me chamo Ana Beatriz, tenho 20 anos e moro em Paulista-PE📍</h3>
 
-<br/>
-
 <div align="center">
  
  🔭 I’m currently working on **a marketplace**
