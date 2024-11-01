@@ -2,15 +2,15 @@
 
 ###
 
+<img align="right" height="300" src="https://i.ibb.co/jfZ4vH1/b.jpg"  />
+
+###
+
 <p align="left">Meu nome é Ana Beatriz, tenho 20 anos e moro em Paulista-PE📍</p>
 
 ###
 
 <p align="left">• 💻Desenvolvedora de Softweare<br>• 📱Front-End Delevoper</p>
-
-###
-
-<img align="right" height="300" src="https://i.ibb.co/jfZ4vH1/b.jpg"  />
 
 ###
 
