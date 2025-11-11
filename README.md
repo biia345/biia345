@@ -10,7 +10,7 @@
  
  💻 Desenvolvedora de Software 
  
- 📱 Front-End Developer
+ 📊 Analista de Dados
 
  </div>
  
