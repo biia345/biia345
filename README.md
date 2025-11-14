@@ -7,10 +7,10 @@
 <h3 align="center">Me chamo Ana Beatriz, tenho 21 anos e moro em Paulista-PE📍</h3>
 
 <div align="center">
+
+ 📊 Analista de Dados
  
  💻 Desenvolvedora de Software 
- 
- 📊 Analista de Dados
 
  </div>
  
