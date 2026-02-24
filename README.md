@@ -52,9 +52,8 @@ Power BI • SQL • Python • ETL • Data Cleaning • Modelagem de Dados •
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Atividade no GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=biia345&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biia345&layout=compact&langs_count=7&theme=dark"/>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/biia345/biia345/output/github-contribution-grid-snake.svg" />
 </div>
