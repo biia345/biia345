@@ -1,49 +1,60 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=biia345.biia345" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!👋;+Seja+Bem-vindo(a)!+😁;" />
-</h1>
+<h1 align="center">Ana Beatriz Marques Ferreira</h1>
+<h3 align="center">Analista de Dados Júnior | Business Intelligence</h3>
 
-<h3 align="center">Me chamo Ana Beatriz, tenho 22 anos e moro em Paulista-PE📍</h3>
+<p align="center">
+Transformando dados em insights estratégicos para tomada de decisão.
+</p>
+
+---
+
+## 📊 Sobre Mim
+
+Sou profissional de Dados formada em Análise e Desenvolvimento de Sistemas, com foco em análise, visualização e transformação de dados em inteligência de negócio.
+
+Atuo com Power BI, SQL e Python no desenvolvimento de processos de ETL, modelagem de dados e construção de dashboards orientados a indicadores estratégicos.
+
+Tenho interesse em projetos voltados para:
+- Business Intelligence
+- Análise Exploratória de Dados
+- Visualização de Dados
+- Automação de Processos
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
 
- 📊 Analista de Dados
+<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,git,github,vscode" />
 
- </div>
- 
+</div>
+
+<br>
+
+<p align="center">
+Power BI • SQL • Python • ETL • Data Cleaning • Modelagem de Dados • Dashboards
+</p>
+
+---
+
+## 🔗 Conecte-se comigo
+
 <div align="center"> 
   <a href="mailto:bm087876@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/ana-beatriz-marques-ferreira-42125121a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://github.com/biia345" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️Linguagens-Frameworks-Ferramentas⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,mysql" /><br>
-</div>
+---
 
-<br/>
-<hr/>
+## 📈 GitHub Stats
 
 <div align="center">
-  <h2>🐍Minhas Contribuições🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/biia345/biia345/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=biia345&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biia345&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-<hr/>
-
-<br/>
