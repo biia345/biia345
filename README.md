@@ -9,17 +9,19 @@ Transformando dados em insights estratégicos para tomada de decisão.
 
 ---
 
+<div align="center">
+
 ## 📊 Sobre Mim
 
-Sou profissional de Dados formada em Análise e Desenvolvimento de Sistemas, com foco em análise, visualização e transformação de dados em inteligência de negócio.
+Profissional de Dados formada em Análise e Desenvolvimento de Sistemas, com foco em **análise, visualização e transformação de dados em inteligência de negócio**.
 
-Atuo com Power BI, SQL e Python no desenvolvimento de processos de ETL, modelagem de dados e construção de dashboards orientados a indicadores estratégicos.
+Atuo com **Power BI, SQL e Python**, desenvolvendo processos de **ETL, modelagem de dados e dashboards orientados a KPIs estratégicos**.
 
-Tenho interesse em projetos voltados para:
-- Business Intelligence
-- Análise Exploratória de Dados
-- Visualização de Dados
-- Automação de Processos
+### 🚀 Áreas de Interesse
+
+Business Intelligence • Análise Exploratória de Dados • Visualização de Dados • Automação de Processos
+
+</div>
 
 ---
 
